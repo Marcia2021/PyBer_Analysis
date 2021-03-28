@@ -69,13 +69,14 @@ In order to provide additional information to the decision-makers at PyBer we ar
 
     The summary DataFrame showed:
 
-    - 	Urban cities have the largest number of total rides and drivers, as well as the highest number of total fares among all           three city types. 
+    - 	Urban cities have the largest number of total rides and drivers, as well as the highest number of total fares among all three city types. 
 
-    - 	Due to the large number of total rides and drivers, Urban cities have the lowest “Average Fare per Ride” and “Average Fare         per Driver” among all three city types. 
+    - 	Due to the large number of total rides and drivers, Urban cities have the lowest “Average Fare per Ride” and “Average Fare per Driver” among all three city types. 
 
-    -	  Rural cities have the smallest number of total rides and drivers, as well as the Total Fares. However, these cities have           the highest “Average Fare per Ride” and “Average Fare per Driver” among these three city types. 
+    -	Rural cities have the smallest number of total rides and drivers, as well as the Total Fares. However, these cities have the highest “Average Fare per Ride” and 
+        “Average Fare per Driver” among these three city types. 
 
-    -	  Although the Urban cities have the highest number of rides and drivers, the total number of rides is lower than the total         number of drivers, which is opposite in the other city types. 
+    -	Although the Urban cities have the highest number of rides and drivers, the total number of rides is lower than the total number of drivers, which is opposite in the             other city types. 
 
 3.	Create a multiple line plot that shows the total weekly of the fares for each type of city.
 
